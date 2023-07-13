@@ -1,0 +1,10 @@
+{
+    "cph.general.autoShowJudge": false,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8",
+        "python.languageServer" : "pylance",
+        "emmet.includeLanguages":{ "django.html" : "html"}
+    },
+    "python.formatting.provider": "none"
+}
+
